@@ -1,0 +1,21 @@
+channels:
+- conda-forge
+dependencies:
+# Jupyter
+- jupyterlab
+- notebook
+- nbconvert
+- widgetsnbextension
+# Python Kernel
+- ipykernel
+- ipywidgets
+- ipyleaflet
+- matplotlib
+- python
+- seaborn
+- pyyaml
+- scipy
+- astropy
+- sunpy
+# C++ Kernel
+- xeus-cling
